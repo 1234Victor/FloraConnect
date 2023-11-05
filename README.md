@@ -5,7 +5,7 @@ Our inspiration for FloraConnect sprouted from a desire to bridge the gap betwee
 
 ## What it does
 
-FloraConnect is a multifunctional plant companion. It utilizes Arduino, Bluetooth signals, buzzers, hex displays, humidity sensors, and more to track soil humidity and set alarms through a mobile app. When an alarm triggers, a buzzer reminds the owner to water the plant, and the plant itself delivers encouraging messages. The hex display shows the time and a charming facial expression on an LCD screen, enhancing the interactive experience. In addition, the plant can also interact with human, it would "speak" if someone talk 
+FloraConnect is a multifunctional plant companion. It utilizes Arduino, Bluetooth signals, buzzers, hex displays, humidity sensors, and more to track soil humidity and set alarms through a mobile app. When an alarm triggers, a buzzer reminds the owner to water the plant, and the plant itself delivers encouraging messages. The hex display shows the time and a charming facial expression on an LCD screen, enhancing the interactive experience. In addition, the plant can also interact with human, it would "speak" if someone get close to them or if some one touch them.
 
 ## How we built it
 
