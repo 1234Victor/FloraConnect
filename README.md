@@ -1,4 +1,5 @@
-# FloraConnect## Inspiration
+# FloraConnect
+## Inspiration
 
 Our inspiration for FloraConnect sprouted from a desire to bridge the gap between technology and nature. We wanted to create a unique plant "pet" that would not only monitor humidity but also serve as an alarm clock, and even have the ability to interact with its owner. Our goal was to offer a refreshing and interactive way for people to connect with their plants while providing essential care.
 
